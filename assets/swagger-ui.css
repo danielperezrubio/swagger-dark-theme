@@ -11866,6 +11866,9 @@ div {
 .swagger-ui .opblock-summary-control:focus {
   outline: none !important;
 }
+.swagger-ui .opblock .opblock-summary-path {
+  color: #96979c;
+}
 
 pre.example.microlight {
   background: rgb(39 40 47) !important;
